@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.croconaut.ratemebuddy",
-    "sha256_cert_fingerprints": ["76:EE:86:B8:3C:77:42:9F:BD:8D:F4:E1:17:9E:5E:39:96:15:4F:45:E6:41:92:DB:5C:BE:17:F9:04:42:AF:79"]
-  }
-}]
