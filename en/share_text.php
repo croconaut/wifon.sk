@@ -1,0 +1,1 @@
+<p align="left">Apart from the classic way, from the Play Store, you can send <b>WiFON</b> over the air directly from your device to another one or to download the apk file directly from our website.</p>

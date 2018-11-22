@@ -1,0 +1,2 @@
+<p align="left">Your status and photo are visible for everyone nearby, put there something interesting! Others can leave a comment or like it; will you collect more likes than your friends?</p>
+<p align="left"></p>
